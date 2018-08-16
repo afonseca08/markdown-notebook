@@ -1,8 +1,6 @@
-Markdown Notebook
-=============
+![Screenshot](screenshot.png?raw=true)
 
 A markdown editor app written in React. This project was an assignment in "JavaScript and React for Developers: Master the Essentials" Udemy course.
-![Screenshot](screenshot.png?raw=true)
 
 ## Getting Started
 
