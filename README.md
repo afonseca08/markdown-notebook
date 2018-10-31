@@ -1,6 +1,6 @@
 ![Screenshot](screenshot.png?raw=true)
 
-A markdown editor app written in React. This project was an assignment in "JavaScript and React for Developers: Master the Essentials" Udemy course.
+A markdown editor app written in React. This project was an assignment in [JavaScript and React for Developers: Master the Essentials](https://www.udemy.com/share/1008ykA0cYeFxQRHw=/) Udemy course.
 
 ## Getting Started
 
